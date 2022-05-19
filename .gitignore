@@ -3,3 +3,4 @@
 .pycache
 pyvenv.cfg
 .idea
+/.pytest_cache/
